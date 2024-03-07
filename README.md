@@ -16,5 +16,5 @@ My portfolio website built using HTML, CSS, and JavaScript. You can check it out
 
 👤 **Aras Güngöre**
 
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
+* LinkedIn: [@arasgungore](https://www.linkedin.com/in/)
+* GitHub: [@arasgungore](https://github.com/Himmel29)
